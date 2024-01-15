@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T11:48:54.691Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="qbUnuDt2FGZVWJA4iK-y" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T12:24:05.396Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="F_GdY6VNfoY9xiOTyEm6" version="22.1.18" type="github">
   <diagram name="第 1 页" id="l1y9PmFCKT_kWOfYFogb">
     <mxGraphModel dx="1319" dy="790" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -408,6 +408,108 @@
         </mxCell>
         <mxCell id="vzfox45HHE8GtCFz9UVN-65" value="&lt;font color=&quot;#ff3333&quot;&gt;国际化独立链路&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
           <mxGeometry x="1282" y="1587" width="146" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vzfox45HHE8GtCFz9UVN-66" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="286" y="2341" as="sourcePoint" />
+            <mxPoint x="1424" y="2341" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzfox45HHE8GtCFz9UVN-67" value="" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="424" y="2336" as="sourcePoint" />
+            <mxPoint x="424" y="2296" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzfox45HHE8GtCFz9UVN-68" value="连接切到新加坡" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="340" y="2263" width="158" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="vzfox45HHE8GtCFz9UVN-69" value="" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="575" y="2338" as="sourcePoint" />
+            <mxPoint x="575" y="2298" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzfox45HHE8GtCFz9UVN-70" value="设备库对比" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="517.5" y="2263" width="118" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="vzfox45HHE8GtCFz9UVN-71" value="" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="719.44" y="2336" as="sourcePoint" />
+            <mxPoint x="719.44" y="2296" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzfox45HHE8GtCFz9UVN-72" value="同步设备库差异" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="641" y="2263" width="158" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="vzfox45HHE8GtCFz9UVN-74" value="" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1191.94" y="2337" as="sourcePoint" />
+            <mxPoint x="1191.94" y="2297" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzfox45HHE8GtCFz9UVN-75" value="断ack上传" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="2263" width="113" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="vzfox45HHE8GtCFz9UVN-76" value="12月1号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="392" y="2343" width="75" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="vzfox45HHE8GtCFz9UVN-77" value="12月15号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="528" y="2343" width="89" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="vzfox45HHE8GtCFz9UVN-78" value="1月5号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="680" y="2345" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vzfox45HHE8GtCFz9UVN-79" value="2月23号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="1147" y="2349" width="91" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="vzfox45HHE8GtCFz9UVN-81" value="1月16号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="839" y="2347" width="76" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="vzfox45HHE8GtCFz9UVN-82" value="" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="868" y="2336" as="sourcePoint" />
+            <mxPoint x="868" y="2296" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzfox45HHE8GtCFz9UVN-83" value="设备库切新加坡&lt;br&gt;灰度开始" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="792" y="2245" width="158" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vzfox45HHE8GtCFz9UVN-84" value="2月18号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="971" y="2347" width="85" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="vzfox45HHE8GtCFz9UVN-85" value="" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1009.44" y="2336" as="sourcePoint" />
+            <mxPoint x="1009.44" y="2296" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzfox45HHE8GtCFz9UVN-86" value="断双发" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="972" y="2261" width="78" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="vzfox45HHE8GtCFz9UVN-87" value="2月20号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="1056" y="2347" width="94" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="vzfox45HHE8GtCFz9UVN-88" value="" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1098" y="2337" as="sourcePoint" />
+            <mxPoint x="1098" y="2297" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzfox45HHE8GtCFz9UVN-89" value="断同步" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="1059" y="2263" width="78" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="vzfox45HHE8GtCFz9UVN-90" value="3月5号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="2349" width="82" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="vzfox45HHE8GtCFz9UVN-91" value="" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1335" y="2339" as="sourcePoint" />
+            <mxPoint x="1335" y="2299" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzfox45HHE8GtCFz9UVN-93" value="断控制台双查" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="1272" y="2263" width="138" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
